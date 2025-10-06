@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 1499,
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+    "description": "Premium sound quality with noise cancellation"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 3999,
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
+    "description": "Track your fitness and health metrics"
+  },
+  {
+    "id": 3,
+    "name": "Laptop Backpack",
+    "price": 1199,
+    "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400",
+    "description": "Durable and spacious design"
+  },
+  {
+    "id": 4,
+    "name": "USB-C Hub",
+    "price": 2899,
+    "imageUrl": "https://www.dlink.com/se/sv/products/-/media/product-pages/dub/m530/dub_m530_a1_forgb.jpg",
+    "description": "7-in-1 connectivity solution"
+  },
+  {
+    "id": 5,
+    "name": "Mechanical Keyboard",
+    "price": 999,
+    "imageUrl": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400",
+    "description": "RGB backlit with tactile switches"
+  },
+  { "id": 6,
+   "name": "Wireless Mouse", 
+   "price": 1299, "imageUrl": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=400", 
+   "description": "Ergonomic design for comfort" 
+},
+{ "id": 7, 
+"name": "Phone Stand",
+ "price": 1599,
+  "imageUrl": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=400", 
+  "description": "Adjustable viewing angle"
+ },
+ { "id": 8,
+  "name": "Desk Lamp", 
+  "price": 3599, 
+  "imageUrl": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=400", 
+  "description": "LED with adjustable brightness" 
+}
+]
